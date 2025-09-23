@@ -8,15 +8,3 @@ echo "Nilai Tugas II:".$tugas2."<br>";
 echo "Jumlah Tugas :".$jumlah."<br>";
 echo "Rerata Tugas :".$rerata;
 ?>
-Nama File : operator2.php
-<?php
-$x=10;
-$y=6;
-echo ($x + $y); echo ($x - $y); echo ($x * $y);
-echo ($x / $y);
-echo ($x % $y);
-$a = "Hello";
-$b = $a . " world!";
-echo $b;
-Echo $a. "--" . $b. "ini string operator";
-?>
