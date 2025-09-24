@@ -1,6 +1,6 @@
 <?php
-// 3. Waktu Sholat
-echo "<h3>3. Waktu Sholat</h3>";
+// Waktu Sholat
+echo "<h3>Waktu Sholat</h3>";
 $jam = 12;
 if($jam == 5){
     echo "Sholat Subuh<br>";
